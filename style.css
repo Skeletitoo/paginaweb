@@ -1,0 +1,9 @@
+.borde {
+    border: 2px;
+    border-style: solid;
+    border-color: red;
+}
+
+li a {
+    text-decoration: none;
+}
